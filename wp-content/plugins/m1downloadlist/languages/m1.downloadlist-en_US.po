@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: m1.DownloadList\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Sat Jan 16 2016 13:08:41 GMT+0100 (CET)\n"
+"PO-Revision-Date: Sat Jan 16 2016 13:10:25 GMT+0100 (CET)\n"
+"Last-Translator: roger <roger@maennchen1.de>\n"
+"Language-Team: \n"
+"Language: English\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Loco-Target-Locale: en_US"
+
+#. Name of the plugin
+msgid "m1.DownloadList"
+msgstr "m1.DownloadList"
+
+#. URI of the plugin
+msgid "http://maennchen1.de"
+msgstr "http://maennchen1.de"
+
+#. Description of the plugin
+msgid ""
+"This plugin easily displays the folders and files from a selected directory. "
+"It can be placed by shortcode in any post."
+msgstr ""
+"This plugin easily displays the folders and files from a selected directory. "
+"It can be placed by shortcode in any post."
+
+#. Author of the plugin
+msgid "maennchen1.de"
+msgstr "maennchen1.de"
+
+#: ../index.php:72
+msgid "path"
+msgstr "path"
+
+#: ../index.php:72
+msgid "downloads"
+msgstr "downloads"
